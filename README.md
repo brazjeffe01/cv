@@ -2,7 +2,7 @@
 
 ## Analista de Testes/QA | Cypress, Postman, Agile Testing
 
-*E-mail:* ??
+*E-mail:* brazjeffe@gmail.com
 
 *Local:* São Paulo, Brasil
 
@@ -35,4 +35,30 @@ Na Atlas Governance, eu atuei:
 
 Na Troupe Tecnologia, eu atuei:
 
-- ???
+- Por aproximadamente um ano como único QA na equipe de desenvolvimento, sendo o responsável pelas atividades de testes e garantir a qualidade dentro do processo como um todo.
+- Planejando, criando teste para novas funcionalidades e bugs corrigidos, acompanhando o caso até o final do fluxo.
+- Executando diferentes tipos e técnicas de testes no sistema web, e também em dispositivo móvel (Android), testando o sistema por completo em um aparelho físico.
+- Implementando testes automatizados usando o framework Cypress, utilizando locators robustos, manipulando requests e priorizando quais cenários automatizar baseado em prioridade/severidade.
+- Realizando testes de API com a ferramenta Postman para requisições em GraphQL, visando garantir a confiabilidade e segurança da informação na comunicação Front/Back.
+- Pela primeira vez com funcionalidades de geolocalização, adaptando os testes para essa necessidade e garantindo a qualidade.
+- Buscando que a comunicação com PO e desenvolvedores fosse sempre clara e próxima, sempre estando disponível para dúvidas, sugestões e críticas.
+
+
+**[Quality Digital](https://qualitydigital.global/) - Analista de Qualidade Junior - Rio de Janeiro, Brasil - Remoto**
+
+*JUnho/23 - Setembro/23*
+
+Na Quality Digital, eu atuei:
+
+- Criando e executando testes para sistema de e-commerce (VTEX), sempre atento as particularidades e fluxo cruciais nesse modelo.
+- Realizando testes manuais pré e pós-deploy, garantindo que as funcionalidades gerais não foram afetadas por correções e implementações.
+- Juntamente com outra QA em uma equipe de 8 desenvolvedores, sendo necessário lidar com prazos curtos e alta demanda da melhor forma possivel (Sempre que possivel).
+- Participando dos rituais do ágil como Daily, Plannings, Retrospectivas e Refinamentos, sempre atento as informações presentes e participando quando necessário.
+- Utilizando a ferramenta BrowserStack para testes em dispositivos móveis, tanto Android quanto iOS.
+- 
+
+**[Resale](https://home.resale.com.br/) - Analista de Testes/QA Junior - Piracicaba, Brasil - Remoto**
+
+*Junho/22 - Dezembro/22*
+
+Na Resale, eu atuei:
