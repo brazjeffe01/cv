@@ -11,9 +11,9 @@
 *GitHub:* https://github.com/brazjeffe01
 
 ## Resumo
-Analista de Testes/QA com 3 anos de experiência atuando com testes manuais e automatizados, participando ativamente em todo o processo de desenvolvimento ágil de software e aumentando a produtividade das atividades gerais de teste guiado por IA.
+Analista de Testes/QA com 3 anos de experiência atuando com testes manuais e automatizados, participando ativamente em todo o processo de desenvolvimento ágil de software e aumentando a produtividade das atividades gerais de teste guiado por IA. Certificado pela BSTQB (CTFL).
 
-## Experiência
+## Experiências
 **[Atlas Governance](https://atlasgov.com/pt/) - QA Associate II - Minas Gerais, Brasil - Remoto**
 
 *Agosto/25 - Julho/26*
@@ -46,7 +46,7 @@ Na Troupe Tecnologia, eu atuei:
 
 **[Quality Digital](https://qualitydigital.global/) - Analista de Qualidade Junior - Rio de Janeiro, Brasil - Remoto**
 
-*JUnho/23 - Setembro/23*
+*Junho/23 - Setembro/23*
 
 Na Quality Digital, eu atuei:
 
@@ -55,10 +55,27 @@ Na Quality Digital, eu atuei:
 - Juntamente com outra QA em uma equipe de 8 desenvolvedores, sendo necessário lidar com prazos curtos e alta demanda da melhor forma possivel (Sempre que possivel).
 - Participando dos rituais do ágil como Daily, Plannings, Retrospectivas e Refinamentos, sempre atento as informações presentes e participando quando necessário.
 - Utilizando a ferramenta BrowserStack para testes em dispositivos móveis, tanto Android quanto iOS.
-- 
 
-**[Resale](https://home.resale.com.br/) - Analista de Testes/QA Junior - Piracicaba, Brasil - Remoto**
+**Outras experiências Relevantes**
 
-*Junho/22 - Dezembro/22*
+*Dezembro/17 - Dezembro/22*
 
-Na Resale, eu atuei:
+- Resale (Analista de Testes/QA Junior por 6 meses), CDF (Analista de suporte por 8 meses, Canon Medical Systems (Estagiário em TI por 1 ano e meio)
+
+## Habilidades
+
+- **Linguagens de programação:** JavaScript
+- **Testes:** Cypress, Mocha, Chai, Postman
+- **CI/CD e Infraestrutura:** Git, Jenkins
+- **Desenvolvimento Web:** Node.js, HTML5, CSS3, MongoDB, GraphQL
+- **Desenvolvimento Ágil:** Scrum, Kanban
+- **Desenvolvimento Assistido por IA:** ChatGPT, GitHub Copilot
+- **Paradigmas de programação:** Programação orientada a objetos (OOP)
+- **Outros:** Jira, TestLink, BrowserStack, Slack, Zoom, MS Teams, Figma
+- **Idiomas:** Português: Nativo, Inglês: Avançado, Espanhol: Intermediário
+
+## Formação:
+Graduado em Analista de Desenvolvimento de Sistemas pela Uninove (2020)
+
+## Certificações:
+CTFL (Certified Tester Foundation Level) pela BSTQB
