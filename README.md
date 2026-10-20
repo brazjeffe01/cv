@@ -6,7 +6,7 @@
 
 *Local:* São Paulo, Brasil
 
-*LinkedIn:* https://www.linkedin.com/in/brazjeffe01/
+*LinkedIn:* [https://www.linkedin.com/in/brazjeffe01/](https://www.linkedin.com/in/brazjeffe01/)
 
 *GitHub:* https://github.com/brazjeffe01
 
@@ -56,7 +56,7 @@ Na Quality Digital, eu atuei:
 - Participando dos rituais do ágil como Daily, Plannings, Retrospectivas e Refinamentos, sempre atento as informações presentes e participando quando necessário.
 - Utilizando a ferramenta BrowserStack para testes em dispositivos móveis, tanto Android quanto iOS.
 
-**Outras experiências Relevantes**
+**Outras experiências relevantes**
 
 *Dezembro/17 - Dezembro/22*
 
